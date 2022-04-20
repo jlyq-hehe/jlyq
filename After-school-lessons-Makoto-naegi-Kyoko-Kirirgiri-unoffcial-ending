@@ -1,0 +1,43 @@
+ <!DOCTYPE html>
+ <html>
+     <h1>After School Lesson: Makoto Naegi / Kyoko Kirigiri (unofficial ending) </h1>
+     <img id="haha" src="https://w0.peakpx.com/wallpaper/239/780/HD-wallpaper-naegiri-icon-danganronpa-kyoko-kirigiri-makoto-naegi-thumbnail.jpg" width="25%" height="25%">
+     <p>Makoto Naegi: After being blamed for the death of a hidden 16th student due to not having an alibi during the time of death, a failed execution takes place in an attempt to crush him. The machine is stopped by the remains of the AI, Alter Ego, thus saving Makoto, but sending him falling to the trash pit below.
+Kyoko Kirigiri: Falsely accused by Makoto Naegi, Kyoko is found guilty of the murder of the 16th student, thus sent to the same execution cannonically goes through, presumed to be dead at the end of the cutscene. </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://weebs4life.w3spaces.com/index.html" >Home</a>
+<a href="https://weebs4life.w3spaces.com/danganronpa-folder.html" >Back</a>
+     <style>
+         body {
+             background-color: #000000;
+         }
+         h1 {
+             color: #39FF14;
+             font-family: verdana;
+             text-align: center;
+         }
+         p {
+             color: #39FF14;
+             font-family: verdana;
+
+         }
+         img {
+             float: left;
+         }
+          a:link {
+    color: #000000;
+    background-color: #39FF14;
+    text-decoration: none;
+    font-family: verdana;
+    padding: 1px 10px; 
+        }
+         </style>
