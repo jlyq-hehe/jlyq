@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+ <html>
+     <h1>1000 blows: Leon Kuwata </h1>
+     <img src="https://i.pinimg.com/originals/c7/b3/48/c7b3481eaf7e7fb2d81935d5d3492840.png" alt="1000 blows: Leon Kuwata">
+     <p> Leon Kuwata, the Ultimate Baseball Star, had been caught for the murder of Sayaka Maizono, the Ultimate Pop Sensation. Sayaka died due to a stab wound to the chest. Leon was executed via being shot to death with baseballs.
+ </p>
+ <a href="https://weebs4life.w3spaces.com/index.html"> Home</a>
+<a href="https://weebs4life.w3spaces.com/danganronpa-folder.html">
+  back</a>
+
+     <style>
+         body {
+             background-color: #000000;
+         }
+         h1 {
+             color: #39FF14;
+             font-family: verdana;
+             text-align: center;
+             
+         }
+         p {
+             color: #39FF14;
+             font-family: verdana;
+         }
+         img {
+             float: left;
+         }
+                    a:link {
+    color: #000000;
+    text-decoration: none;
+    background-color: #39FF14;
+    padding: 7px 17px;
+    font-family: verdana;
+           }
+         </style>
