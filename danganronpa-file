@@ -1,0 +1,84 @@
+ <!DOCTYPE html>
+ <html>
+   <h1> Danganronpa wiki </h1>
+   <img src="https://images-na.ssl-images-amazon.com/images/I/91wgo7S97ZL.jpg" alt="Danganronpa picture" width="40%" hight="40%">
+     <h2> Executions </h2>
+     <a href="https://weebs4life.w3spaces.com/blast_off_jin_kirigiri.html" >Blast Off!: Jin Kirigiri<class:"B1"></a>
+     <a href="https://weebs4life.w3spaces.com/mondo_butter.html" >Cage of Death: Mondo Owada</a>
+     <a href="https://weebs4life.w3spaces.com/1000_blows_leon_kuwata.html" > 1000 blows: Leon Kuwata</a>
+     <br>
+     <a href="https://weebs4life.w3spaces.com/the_burning_of_the_versailles_witch_celestia_ludenburg.html" >The Burning of the Versailles Witch: Celestia Ludenburg</a>
+     <a href="https://weebs4life.w3spaces.com/excavator-destroyer-alter-ego.html" >Excavator Destroyer: Alter Ego</a>
+     <a href="https://weebs4life.w3spaces.com/after-school-lesson-makoto-naegi-kyoko-kirigiri-unofficial-ending.html" >After School Lesson: Makoto Naegi / Kyoko Kirigiri (unofficial ending)</a>
+    <br>
+     <a href="https://weebs4life.w3spaces.com/the-ultimate-punishment-junko-enoshima.html" >The Ultimate Punishment: Junko Enoshima</a>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <a id="home" href="https://weebs4life.w3spaces.com/index.html" > home </a>
+     
+     <style> 
+     body {
+    background-color: #000000;
+  }
+  h1 {
+    color: #39FF14;
+    text-align: center;
+    font-family: verdana;
+  }
+  h2 {
+    color: #39FF14;
+    text-align: center;
+    font-family: verdana;
+    text-align: right;
+    padding: 1px 340px;
+  }
+  p {
+    color: #39FF14;
+    font-family: verdana;
+
+  }
+  a:link {
+    color: #000000;
+    background-color: #39FF14;
+    text-decoration: none;
+    font-family: verdana;
+    padding: 1px 10px; 
+    
+  }
+  img {
+    float: left;
+  }
+  #home {
+    float: left;
+  }
+  </style>
+  
