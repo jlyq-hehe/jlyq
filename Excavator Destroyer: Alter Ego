@@ -1,0 +1,31 @@
+ <!DOCTYPE html>
+ <html>
+     <h1>Excavator Destroyer: Alter Ego </h1>
+     <img src="https://cdn.staticneo.com/w/danganronpa/thumb/AlterEgo.png/300px-AlterEgo.png" alt="alter ego" width="40%" height="40%">
+     <p>After the sucide of Sakura Ogami, Alter had been found in a hidden room within the storage closet of the 2nd floor boy’s bathroom, where it had been placed a mere night before by Makoto Naegi and Kyoko Kirigiri in order to access the network. It was crushed by an excavator repeatedly, being turned into a mere pile of garbage. </p>
+     <a href="https://weebs4life.w3spaces.com/index.html" >home</a>
+     <a href="https://weebs4life.w3spaces.com/danganronpa-folder.html" >Back</a>
+     <style>
+         body {
+             background-color: #000000;
+         }
+         h1 {
+             color: #34FF14;
+             font-family: verdana;
+             text-align: center;
+         }
+         p {
+             color: #34FF14;
+             font-family: verdana;
+
+         }
+         img {
+             float: left;
+         }
+       a:link {
+    color: #000000;
+    text-decoration: none;
+    background-color: #39FF14;
+    padding: 7px 17px;
+    font-family: verdana;
+         </style>
